@@ -1,0 +1,41 @@
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.title{
+text-align: center;
+}
+.js-form{
+text-align: center;
+margin-bottom: 100px;
+}
+.js-h2{
+display: inline-block;
+margin-right: 20px;}
+.js-input{
+    margin-right: 20px;
+    padding: 10px;
+}
+.js-button{
+    padding: 10px;
+}
+.list{
+display: flex;
+align-items: center;
+justify-content: space-between;
+list-style: none;
+}
+.item{
+ border: 2px solid black;
+ width: 250px;
+ height: 200px;
+ text-align: center;
+ padding-top: 40px;
+ border-radius: 6px;
+}
+.text{
+
+}
+.js-result1{
+
+}
